@@ -1,4 +1,4 @@
-# Mobile Game Learning App 🎮📚
+# Mobile Game Learning App 
 
 A Flutter-based educational app that makes learning fun using:
 - Flashcards (quick revision)
