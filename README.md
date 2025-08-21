@@ -1,16 +1,22 @@
-# quiz
+# Mobile Game Learning App 🎮📚
 
-A new Flutter project.
+A Flutter-based educational app that makes learning fun using:
+- Flashcards (quick revision)
+- Quiz game (test knowledge)
+- Heads-Up style mode (social learning)
 
-## Getting Started
+## Tech Stack
+- Flutter (Dart)
 
-This project is a starting point for a Flutter application.
+## Features
+- Interactive UI
+- Gamified learning
+- 3 Learning Modes: Flashcards, Quiz, and Heads-Up
+- Offlie Use
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Future Scope
+- Persistent Storage using SQLite or Hive to save user progress and custom questions locally.
+- User Authentication with Firebase/Google Sign-In for personalized profiles.
+- Dark Mode to allow theme switching and save preference using SharedPreferences.
+- Online Sync to store and share quizzes with friends via Firebase or a REST API.
+- Leaderboard & Scores → Add gamification with high scores, badges, and progress tracking.
